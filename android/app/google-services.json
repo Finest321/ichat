@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111690563222",
+    "project_id": "ichat-ed416",
+    "storage_bucket": "ichat-ed416.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111690563222:android:e8cb28b86e5ad969554cb7",
+        "android_client_info": {
+          "package_name": "com.example.ichat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXNaYZnx6Fj1N_6UD14fGW32w3tQzGq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
